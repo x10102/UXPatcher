@@ -1,7 +1,7 @@
 # UXPatcher
 An open-source alternative to UltraUXThemePatcher, allows you to install third-party themes.
 
-The patch works by modyfying a function in `themeui.dll` and `uxinit.dll` to skip a signature check. All credit for the patch goes to [M. Hoefs](https://mhoefs.eu/index.php?lang=en).
+The patch works by modifying a function in `themeui.dll` and `uxinit.dll` to skip a signature check. All credit for the patch goes to [M. Hoefs](https://mhoefs.eu/index.php?lang=en).
 
 Tested on Windows 10 22H2, build 19045.4529. If you want support for another version, open an issue.
 
